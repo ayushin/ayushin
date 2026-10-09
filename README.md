@@ -6,6 +6,7 @@ I'm also building the libraries underneath it. Each one works on its own in any 
 
 | Project | What it does | |
 | --- | --- | --- |
+| [**NSD**](https://github.com/nlnetlabs/nsd) | NSD | |
 | [**angee-django**](https://github.com/ang-ee/angee-django) | The Angee framework: Django + React developer framework and base addons | |
 | [**django-zed-rebac**](https://github.com/ang-ee/django-zed-rebac) | Zanzibar / SpiceDB-style ReBAC for Django. You write the permission schema in `.zed`, and every queryset, save and method call is checked against the acting user or agent | [![PyPI](https://img.shields.io/pypi/v/django-zed-rebac)](https://pypi.org/project/django-zed-rebac/) |
 | [**strawberry-django-aggregates**](https://github.com/ang-ee/strawberry-django-aggregates) | Hasura-shape aggregates for strawberry-django: `count`, `sum`, `avg`, `min`, `max`, `stddev` and more, with multi-level `group_by` and `having` | [![PyPI](https://img.shields.io/pypi/v/strawberry-django-aggregates)](https://pypi.org/project/strawberry-django-aggregates/) |
